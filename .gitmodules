@@ -20,3 +20,6 @@
 [submodule "Julio-Prime-Factors"]
 	path = Julio-Prime-Factors
 	url = git://github.com/12meses12katas/Julio-Prime-Factors.git
+[submodule "Agosto-Minesweeper"]
+	path = Agosto-Minesweeper
+	url = git://github.com/12meses12katas/Agosto-Minesweeper.git
