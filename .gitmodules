@@ -1,3 +1,6 @@
 [submodule "Enero-String-Calculator"]
 	path = Enero-String-Calculator
 	url = git://github.com/12meses12katas/Enero-String-Calculator.git
+[submodule "Febrero-Roman-Numerals"]
+	path = Febrero-Roman-Numerals
+	url = git://github.com/12meses12katas/Febrero-Roman-Numerals.git
