@@ -4,3 +4,7 @@
 [submodule "Febrero-Roman-Numerals"]
 	path = Febrero-Roman-Numerals
 	url = git://github.com/12meses12katas/Febrero-Roman-Numerals.git
+
+[submodule "Marzo-FizzBuzz"]
+	path = Marzo-FizzBuzz
+	url = git://github.com/12meses12katas/Marzo-FizzBuzz.git
