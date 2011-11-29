@@ -23,3 +23,6 @@
 [submodule "Agosto-Minesweeper"]
 	path = Agosto-Minesweeper
 	url = git://github.com/12meses12katas/Agosto-Minesweeper.git
+[submodule "Septiembre-KataArgs"]
+	path = Septiembre-KataArgs
+	url = git://github.com/12meses12katas/Septiembre-KataArgs.git
