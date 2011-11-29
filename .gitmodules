@@ -14,3 +14,6 @@
 [submodule "Mayo-KataLonja"]
 	path = Mayo-KataLonja
 	url = git://github.com/12meses12katas/Mayo-KataLonja.git
+[submodule "Junio-Simple-Lists"]
+	path = Junio-Simple-Lists
+	url = git://github.com/12meses12katas/Junio-Simple-Lists.git
