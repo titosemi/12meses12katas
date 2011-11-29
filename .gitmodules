@@ -8,3 +8,6 @@
 [submodule "Marzo-FizzBuzz"]
 	path = Marzo-FizzBuzz
 	url = git://github.com/12meses12katas/Marzo-FizzBuzz.git
+[submodule "Abril-Bowling"]
+	path = Abril-Bowling
+	url = git://github.com/12meses12katas/Abril-Bowling.git
