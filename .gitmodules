@@ -17,3 +17,6 @@
 [submodule "Junio-Simple-Lists"]
 	path = Junio-Simple-Lists
 	url = git://github.com/12meses12katas/Junio-Simple-Lists.git
+[submodule "Julio-Prime-Factors"]
+	path = Julio-Prime-Factors
+	url = git://github.com/12meses12katas/Julio-Prime-Factors.git
