@@ -11,3 +11,6 @@
 [submodule "Abril-Bowling"]
 	path = Abril-Bowling
 	url = git://github.com/12meses12katas/Abril-Bowling.git
+[submodule "Mayo-KataLonja"]
+	path = Mayo-KataLonja
+	url = git://github.com/12meses12katas/Mayo-KataLonja.git
