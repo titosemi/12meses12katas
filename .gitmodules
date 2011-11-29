@@ -26,3 +26,6 @@
 [submodule "Septiembre-KataArgs"]
 	path = Septiembre-KataArgs
 	url = git://github.com/12meses12katas/Septiembre-KataArgs.git
+[submodule "Octubre-Karate-Chop"]
+	path = Octubre-Karate-Chop
+	url = git://github.com/12meses12katas/Octubre-Karate-Chop.git
