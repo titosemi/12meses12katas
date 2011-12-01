@@ -32,3 +32,6 @@
 [submodule "Noviembre-KataPotter"]
 	path = Noviembre-KataPotter
 	url = git://github.com/12meses12katas/Noviembre-KataPotter.git
+[submodule "Diciembre-PomodoroKata"]
+	path = Diciembre-PomodoroKata
+	url = git://github.com/12meses12katas/Diciembre-PomodoroKata.git
